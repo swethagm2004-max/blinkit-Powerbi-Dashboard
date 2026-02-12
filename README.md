@@ -53,7 +53,6 @@ By utilizing data cleaning, modeling, and DAX calculations, the project enables 
 
 This project focuses on analyzing Blinkit’s sales and outlet performance using Power BI. The dashboard provides insights into total sales, average sales, number of items sold, outlet size and location performance, and product category contribution. Through interactive visualization and KPI tracking, the project helps in understanding business growth patterns and supports effective decision-making.
 
----
 
-Just tell me 😊
-# blinkit-Powerbi-Dashboard
+Dashboard
+-<a href="https://github.com/swethagm2004-max/blinkit-Powerbi-Dashboard/blob/main/BLINKIT.pbix">Dashboard</a>
